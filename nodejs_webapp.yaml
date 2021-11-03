@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  generateName: nodejs-web-app-
+  generateName: nodejs-web-app-0432
 projects:
   - name: react-web-app
     source:
